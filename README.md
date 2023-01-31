@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nigel Omondi
-- 👀 I’m interested in data analysis,software development and cloud computing.
-- 🌱 I’m currently trained in data analysis and learning android development.
-- 💞️ I’m looking to collaborate on data analysis projects.
+- 👋 Hi, I’m Nigel Omondi.
+- 👀 I’m interested in Software engineering, Android development, UI/UX Design and Data Analytics.
+- 🌱 I’m currently trained in UI/UX Design, Data Analytics and Android development, and now enrolled in a Software Engineering program.
+- 💞️ I’m looking to collaborate on UI/UX Design sprints, research, and data analysis projects.
 - 📫 How to reach me nigelomondi62@gmail.com.
 
 <!---
