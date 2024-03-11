@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nigel Omondi.
 - 👀 I’m interested in Software Engineering and Development Projects.
 - 🌱 Currently enrolled in a Software Engineering Curriculum at ALX Africa.
-- 💞️ My Tech stacks -> Blazor, C#, && .NET; { JavaScript: "Express, React and Nodejs" } and Python-Django.
+- 💞️ My Tech stacks -> Blazor, C#, && .NET; { JavaScript: "Express, React and React-Native and Nodejs" } and Python-Django.
 - 📫 How to reach me nigelomondi.engineer@gmail.com.
 
 <!---
